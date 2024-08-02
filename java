@@ -1,1 +1,1 @@
-git,github,mabrn,vnvm,dnhbmf,dmpd
+git,github,kubernetes,docker
